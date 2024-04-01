@@ -1,0 +1,25 @@
+"Speaker 0": Hi, thank you for calling Contoso pharmacy. Who am I speaking with today?
+
+"Speaker 1": Good afternoon. My name is Mary. I'm calling about a refill for my prescribed medications. I have been trying to get ahold of someone for weeks and was told that I would get a call back regarding my situation, but it's been weeks and no one's contacted me, so I thought I'd call.
+
+"Speaker 0": I understand your frustration, Mary. Can you tell me what exactly you're trying to accomplish?
+
+"Speaker 1": Yes, I'm trying to get a refill of my prescription drugs that the my doctor prescribed to me for cholesterol.
+
+"Speaker 0": OK, uh, certainly happy to check that for you. One moment please.
+
+"Speaker 0": I see here that you were on a generic form of Lipitor, is that right?
+
+"Speaker 1": Uh, yes, I was taking the generic form of Lipitor.
+
+"Speaker 0": OK, uh, so I see that your doctor stopped prescribing these drugs in 2021, actually.
+
+"Speaker 1": Oh really? That doesn't sound right. I don't remember him cancelling my prescription.
+
+"Speaker 0": OK, uh, yeah, I'd be happy to check that for you. Uh, because sometimes there's a gap in the system and it just doesn't get reported. So let me take a look here.
+
+"Speaker 0": Just a moment.
+
+"Speaker 0": So I'm seeing here that your doctor had these drugs prescribed to you from 2012 through 2021.
+
+"Speaker 1": Oh, huh? I mean, I'm definitely supposed to be taking something else. Uh, would you check, please?
