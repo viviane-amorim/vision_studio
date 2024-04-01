@@ -1,0 +1,7 @@
+passos de configuração:
+- pesquisa de IA
+- criar o storage
+- habilitar os serviços cognitivos 
+
+testes são através Pesquisa de IA do Azure:
+Gerenciamento de Pesquisa
