@@ -1,3 +1,4 @@
 # vision_studio
 
-Repositorio que trata os exercicios da visão computacional
+Repositorio que trata os exercicios dos modulos 3 ,  4 e 5 
+
